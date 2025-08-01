@@ -1,4 +1,7 @@
 Stock	Qty	Price	Value
-GOOGL	2	2800	5600
+AMZN	5	135	675
+AAPL	3	180	540
+GOOGL	6	2800	16800
+TSLA	12	250	3000
 
-Total Investment Value: $5600
+Total Investment Value: $21015
