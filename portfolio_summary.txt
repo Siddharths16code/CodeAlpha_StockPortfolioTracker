@@ -1,0 +1,4 @@
+Stock	Qty	Price	Value
+GOOGL	2	2800	5600
+
+Total Investment Value: $5600
